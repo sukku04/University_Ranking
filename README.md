@@ -10,12 +10,12 @@ In order to visualize more effectively, I refer to the plotly kernel by Kaan Can
 
 1. Data collection
 2. Domestic measures
-    * Top 10 Universities in Korea during 2014 - 2015
+   2.1 Top 10 Universities in Korea during 2014 - 2015
    
 3. Comparisonal measures 
-    * Worldwide
-    * Comparison with Japan and China
-    * Top universities of South Korea, Japan and China in the world
+   3.1 Worldwide
+   3.2 Comparison with Japan and China
+   3.3 Top universities of South Korea, Japan and China in the world
     
 4. Conclusion 
   
